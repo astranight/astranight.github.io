@@ -28,10 +28,7 @@
  
 </head>
 <body>
-	<audio autoplay="autoplay" loop="loop" preload="auto"
- 
-            	src="弹奏微风.mp3"></audio>
- 
+
 <div id="container">
 	<div id="output">
 		<div class="containerT">
