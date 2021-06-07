@@ -5,7 +5,7 @@
 
 <div id="container">
 	<div id="output">
-		<div class="containerT">
+		<div class="container">
 			<h1>小意是个小傻子</h1>
 			<h1>每天都在找脑子</h1>
 			<h1>(￣▽￣)～■干杯□～(￣▽￣)</h1>
@@ -21,7 +21,6 @@
 		</div>
 	</div>
 </div>
- 
  
  
 </body>
