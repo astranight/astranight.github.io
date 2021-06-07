@@ -9,9 +9,9 @@
 
 <body>
 
-
-			<h1>小意是个小傻子</h1>
-			<h1>每天都在找脑子</h1>
+	<image>5.jpg</image>
+			<h1>先穿袜子后穿鞋</h1>
+			<h1>先当孙子再当爷</h1>
 			<h1>(￣▽￣)～■干杯□～(￣▽￣)</h1>
 			<form class="form" id="entry_form">
 				<input type="text" placeholder="账号" id="entry_name" >
