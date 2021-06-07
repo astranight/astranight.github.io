@@ -1,28 +1,6 @@
 <html lang="en">
 <meta charset="utf-8">
-<head>
 
- 
-<link rel="stylesheet" type="text/css" href="Happybirthday/css/style.css">
- 
-
-<script >
-	function myfunction()
- 
-	{
-	
-	var x=document.getElementById("entry_name").value;
-	var y=document.getElementById("entry_password").value;
-	if(x==""||y=="")
-		{alert("You won't forget your name, will you? (～￣(OO)￣)ブ")}
-	else  if (x=="ABC"&& y=="123")
-		{window.location.href="SecondLucky/LuckyEvertime.html";}
-	else {alert("You won't forget your name, will you? (≧∇≦)ﾉ");}}
-		</script>
- 
- 
- 
-</head>
 <body>
 
 <div id="container">
