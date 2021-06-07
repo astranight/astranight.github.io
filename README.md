@@ -9,7 +9,7 @@
 
 <body>
 
-	<image>5.jpg</image>
+	<img src="5.jpg" width="50%"></img>
 			<h1>先穿袜子后穿鞋</h1>
 			<h1>先当孙子再当爷</h1>
 			<h1>(￣▽￣)～■干杯□～(￣▽￣)</h1>
