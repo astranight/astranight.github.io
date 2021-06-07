@@ -3,7 +3,7 @@
 
 <head>
 	
-	<font face="黑体" color="#000000" size="5">astrum</font>
+	<font face="黑体" color="#000000" size="35">astrum</font>
 	
 </head>
 
